@@ -36,7 +36,7 @@ export default function Navbar({ visible }) {
         transition={{ duration: 1, ease: EASE, delay: 0.3 }}
       >
         <button className="nav-logo" onClick={() => go('#home')} data-cursor="">
-          ABDELMONEM<span className="nav-logo-dot">.</span>
+          OMAR<span className="nav-logo-dot">.</span>
         </button>
 
         <nav className="nav-links mono" aria-label="Primary">

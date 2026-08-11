@@ -45,7 +45,7 @@ export default function Loader({ onDone }) {
     >
       <div className="loader-inner">
         <div className="loader-word">
-          {'ABDELMONEM.'.split('').map((ch, i) => (
+          {'OMAR.'.split('').map((ch, i) => (
             <motion.span
               key={i}
               initial={{ y: '110%', opacity: 0 }}
